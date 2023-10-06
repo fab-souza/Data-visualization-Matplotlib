@@ -12,7 +12,7 @@
 
 ![capa](https://github.com/fab-souza/Data-visualization-Matplotlib/assets/67301805/ae79c8d4-bb38-4c86-a56c-0e1f3f65244c)
 
-
+# Sobre o curso 📚
 
 Ainda no tópico *Visualização de Dados*, da formação [Data Science](https://www.alura.com.br/formacao-data-science), oferecido pela [Alura](https://www.alura.com.br/), passamos o foco para aprender a criar gráficos e visualizações de dados com a biblioteca [Matplotlib](https://matplotlib.org/). Desta vez, o curso foi ministrado pelo [Luis Meazzini](https://www.linkedin.com/in/lmeazzini/) e aprendi:
 
