@@ -10,7 +10,7 @@
 | :rocket: URL         | 
 | :fire: Desafio     | Conteúdo do [curso](https://www.alura.com.br/curso-online-customizacao-matplot)
 
-![capa](https://github.com/fab-souza/Data-visualization-Matplotlib/assets/67301805/ae79c8d4-bb38-4c86-a56c-0e1f3f65244c)
+![](https://github.com/fab-souza/Data-visualization-Matplotlib/assets/67301805/ae79c8d4-bb38-4c86-a56c-0e1f3f65244c)
 
 # Sobre o curso 📚
 
