@@ -32,5 +32,5 @@ E desenvolver um gráfico que esteja mais alinhado com determinada situação/em
 
 ![image](https://github.com/fab-souza/Data-visualization-Matplotlib/assets/67301805/b33849cd-7d7e-4fac-a2ec-9b7bcf8db312)
 
-
+# Minha prática 👩🏻‍💻
 
