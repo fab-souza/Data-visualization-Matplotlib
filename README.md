@@ -34,3 +34,26 @@ E desenvolver um gráfico que esteja mais alinhado com determinada situação/em
 
 # Minha prática 👩🏻‍💻
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Conclusão 🏁
