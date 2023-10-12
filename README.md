@@ -57,3 +57,9 @@ E desenvolver um gráfico que esteja mais alinhado com determinada situação/em
 
 
 # Conclusão 🏁
+
+
+
+
+
+## Ferramentas utilizadas 🧰
