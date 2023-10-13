@@ -34,7 +34,7 @@ E desenvolver um gráfico que esteja mais alinhado com determinada situação/em
 
 # Minha prática 👩🏻‍💻
 
-
+Para praticar o que aprendi, utilizei dois datasets, ambos disponíveis no [Kaggle](https://www.kaggle.com). O primeiro é sobre registros climáticos de mais de 40 regiões da [Austrália](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package/) entre 2008 até 2017.
 
 
 
