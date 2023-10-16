@@ -36,6 +36,7 @@ E desenvolver um gráfico que esteja mais alinhado com determinada situação/em
 
 Para praticar o que aprendi, utilizei dois datasets, ambos disponíveis no [Kaggle](https://www.kaggle.com). O primeiro é sobre registros climáticos de mais de 40 regiões da [Austrália](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package/) entre 2008 até 2017.
 
+![image](https://github.com/fab-souza/Data-visualization-Matplotlib/assets/67301805/c26350c4-6660-4cb4-9aad-9999a631dbb0)
 
 
 
