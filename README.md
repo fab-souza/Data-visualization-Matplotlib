@@ -49,7 +49,7 @@ Aos poucos, aumentei a figura, adicionei um título, uma legenda aos eixos, alte
 Nada de muito diferente, certo? Até que o instrutor começou a apresentar configurações que eu não tinha explorado ainda, por exemplo, alterar a espessura da linha ou substituí-la por pontos ao longo do gráfico.
 
 ![image](https://github.com/fab-souza/Data-visualization-Matplotlib/assets/67301805/1d0576bb-3d6c-4c2d-abc6-06e80aff14b6)
-D![image](https://github.com/fab-souza/Data-visualization-Matplotlib/assets/67301805/6841eac3-367a-43ed-85f9-ac157eaccadc)
+![image](https://github.com/fab-souza/Data-visualization-Matplotlib/assets/67301805/6841eac3-367a-43ed-85f9-ac157eaccadc)
 ![image](https://github.com/fab-souza/Data-visualization-Matplotlib/assets/67301805/fb1a4b11-f347-48d1-aa9a-450a8aea2e17)
 
 Até o momento, o gráfico mostra todos os registros, de 2008 até 2017. Porém, podemos limitar sua visualização, ao determinar um período, com o parâmetro *set_xlim*. Neste caso, determinei que o gráfico estivesse focado nos registros de 01/01/2016 até 01/01/2017.
@@ -69,6 +69,22 @@ Uma outra configuração que achei interessante, foi apresentar linhas que indic
 ![image](https://github.com/fab-souza/Data-visualization-Matplotlib/assets/67301805/5fa01b46-e9cb-403a-9795-34c9e0deac4f)
 
 ---
+
+O segundo dataset que utilizei foi referente ao [consumo de energia elétrica em uma indústria de aço](https://www.kaggle.com/datasets/csafrit2/steel-industry-energy-consumption/), com registros de janeiro de 2018 até dezembro de 2018. 
+
+![image](https://github.com/fab-souza/Data-visualization-Matplotlib/assets/67301805/b7364299-2d33-4dd6-b15d-ed53064362c2)
+
+Além das datas, este dataset tem uma coluna com os dias da semana. Então, plotei um gráfico apresentando a média de consumo de energia a cada dia da semana.
+
+![image](https://github.com/fab-souza/Data-visualization-Matplotlib/assets/67301805/2f2b8a7d-ab6b-4e4f-a4c2-294598cffb90)
+
+
+
+
+
+
+
+
 
 
 
