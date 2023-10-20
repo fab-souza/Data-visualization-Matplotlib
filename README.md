@@ -38,7 +38,7 @@ Para praticar o que aprendi, utilizei dois datasets, ambos disponíveis no [Kagg
 
 ![image](https://github.com/fab-souza/Data-visualization-Matplotlib/assets/67301805/c26350c4-6660-4cb4-9aad-9999a631dbb0)
 
-
+O primeiro gráfico que decidi plotar foi referente às temperaturas máximas de Sydney, usando apenas o *.plot*, definindo as datas no eixo *x* e as temperaturas no eixo *y*:
 
 
 
