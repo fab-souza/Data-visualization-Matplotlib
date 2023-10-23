@@ -96,6 +96,6 @@ Além das datas, este dataset tem uma coluna com os dias da semana. Então, plot
 
 
 
-
+---
 
 ## Ferramentas utilizadas 🧰
