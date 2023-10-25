@@ -1,5 +1,5 @@
 # Data-visualization-Matplotlib
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
 
 ![Badge code size](https://img.shields.io/github/languages/code-size/fab-souza/Data-visualization-Matplotlib)
 
@@ -119,6 +119,8 @@ Até desenvolver um histograma que apresentasse informações mais específicas.
 Eu gostei bastante de fazer este curso, pois ele me mostrou que, dependendo da análise e seu conteúdo, o *matplotlib* consegue resolver muita coisa e apresentar os dados de formas mais assertivas e personalizadas.
 
 ---
+
+Muito obrigada por chegar até aqui e até a próxima 🤗
 
 ## Ferramentas utilizadas 🧰
 
